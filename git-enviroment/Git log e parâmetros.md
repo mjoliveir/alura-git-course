@@ -15,3 +15,4 @@ esse parâmetro graph vai o git log com suas trees, vai deixar mais visual, deix
 ## git log --format e git log --pretty
 Esses são parametros git log que exibem informações específicas de log na qual podemos também passar parâmetros, utilizando git log --format="%H %an" exibe o hashcode e o nome do autor do commit, veja a mídia:
 ![[Pasted image 20250711145542.png]]
+ Versão em pdf disponivel em: [[Git log e parâmetros.pdf]]
