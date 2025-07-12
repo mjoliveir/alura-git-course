@@ -9,3 +9,4 @@ Quando quisermos ver a diff não só do staged e head, mas também de commits an
 
 # Versão em pdf:
 ![[Git diff.pdf]]
+#git
