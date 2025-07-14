@@ -34,6 +34,4 @@ git branch -d nomedabranch
 ```
 ---
 
-
-
 #git
