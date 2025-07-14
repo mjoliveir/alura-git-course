@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git merge.md",
+                "file": "git-enviroment/Git merge.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git merge.md",
+                "file": "git-enviroment/Git stash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git merge"
+              "title": "Git stash"
             }
           }
         ],
@@ -196,8 +196,14 @@
   },
   "active": "20ff979f428b22b6",
   "lastOpenFiles": [
-    "Git rebase.md",
+    "git-enviroment/Git rebase.md",
+    "git-enviroment/Git merge.md",
+    "git-enviroment/Git stash.md",
+    "README.md",
     "Git merge.md",
+    "git-enviroment/img/Pasted image 20250714132944.png",
+    "git-enviroment/img/Pasted image 20250714133246.png",
+    "Git rebase.md",
     "git-enviroment/Git branch.md",
     "git-enviroment/Verificando commits  individualmente.pdf",
     "git-enviroment/Git log e parâmetros.md",
@@ -211,7 +217,6 @@
     "git-enviroment/img/Pasted image 20250712172635.png",
     "git-enviroment/Verificando commits  individualmente.md",
     "git-enviroment/img/Pasted image 20250712163611.png",
-    "git-enviroment/img/Pasted image 20250712163339.png",
-    "README.md"
+    "git-enviroment/img/Pasted image 20250712163339.png"
   ]
 }
