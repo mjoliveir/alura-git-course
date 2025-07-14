@@ -17,3 +17,9 @@ Esses são parametros git log que exibem informações específicas de log na qu
 ![[Pasted image 20250711145542.png]]
  Versão em pdf disponivel em: [[Git log e parâmetros.pdf]]
  #git 
+
+Quando realizamos git log -p é ccomum receber algo como:
+![[Pasted image 20250711203813.png]]
+
+porém com one line recebemos algo compacto como:
+![[Pasted image 20250711203929.png]]
