@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f04adaba6c3ba4f9",
+        "id": "94e05fc672d0965a",
         "type": "tabs",
         "children": [
           {
-            "id": "94db4cfcd2a29d3d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "a8716b7ccfccb993",
+            "id": "7de111b65abbcbe2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -171,15 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94db4cfcd2a29d3d",
+  "active": "6ecf4c5ea7a32216",
   "lastOpenFiles": [
+    "https/HTTP3.md",
+    "https/img/Pasted image 20250716103138.png",
+    "https/Limitações do http.md",
+    "https/Portas.md",
     "https/Arquitetura HTTP.md",
     "https/As camadas da internet.md",
     "https/Domínios.md",
     "https/Entendendo URL's.md",
     "https/HTTPS.md",
     "https/Telnet.md",
-    "https/Portas.md",
     "https/Metodos HTTP.md",
     "https/Introdução ao http.md",
     "git-enviroment/Git stash.md",
@@ -198,7 +191,6 @@
     "git-enviroment/img/Pasted image 20250711203929.png",
     "git-enviroment/img/Pasted image 20250711203813.png",
     "git-enviroment/img/Pasted image 20250711145542.png",
-    "git-enviroment/img/Pasted image 20250711144922.png",
     "git-enviroment/Git branch.md",
     "git-enviroment/Git diff.md",
     "git-enviroment/Git diff.pdf",
